@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dbhayani01 known as Dwarkesh Bhayani
 - 👀 I’m interested in AWS Cloud , gen AI , AI,ML developer with python looking for job
-- 🌱 I’m currently learning AWS From 4 years and going on ...
+- 🌱 I’m currently Mastering AWS From 5+ years and going on ...
 - 💞️ I’m looking to collaborate on any UI or Backend project for remote work
 - 📫 How to reach me Gmail: bhayanidwarkesh@gmail.com
 
